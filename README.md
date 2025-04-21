@@ -111,7 +111,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 plaintext file="LICENSE"
 MIT License
 
-Copyright (c) 2023 ETHVault
+Copyright (c) 2025 ETHVault
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

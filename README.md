@@ -2,8 +2,6 @@
 
 ETHVault is a decentralized platform for Ethereum staking, governance, and participation in the Ethereum ecosystem. It allows users to stake ETH, earn rewards, and vote on proposals that shape the future of the protocol.
 
-![ETHVault Platform](public/ethereal-threads.png)
-
 ## Features
 
 - **ETH Staking**: Deposit ETH and receive dETH tokens at a 1:1 ratio
@@ -41,20 +39,20 @@ The platform is built on four main smart contracts:
 ### Installation
 
 1. Clone the repository:
-   \`\`\`bash
+   ```bash
    git clone https://github.com/yourusername/ethvault.git
    cd ethvault
-   \`\`\`
+   ```
 
 2. Install dependencies:
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 
 3. Run the development server:
-   \`\`\`bash
+   ```bash
    npm run dev
-   \`\`\`
+   ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
@@ -66,7 +64,7 @@ The platform is built on four main smart contracts:
 
 ## Project Structure
 
-\`\`\`
+```
 ethvault/
 ├── app/                  # Next.js app router pages
 ├── components/           # React components
@@ -78,7 +76,7 @@ ethvault/
 │   └── abis/             # Contract ABIs
 ├── public/               # Static assets
 └── styles/               # Global styles
-\`\`\`
+```
 
 ## Contract Address (Holesky Testnet)
 
@@ -108,7 +106,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-\`\`\`
+```
 
 ```plaintext file="LICENSE"
 MIT License

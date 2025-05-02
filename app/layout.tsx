@@ -21,8 +21,7 @@ export const metadata: Metadata = {
         type: "image/svg+xml",
       },
     ],
-  },
-    generator: 'v0.dev'
+  }
 }
 
 export default function RootLayout({
